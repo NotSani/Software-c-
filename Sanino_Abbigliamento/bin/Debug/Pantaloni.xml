@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClsPantaloni xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsPantaloni>
+    <Marca>sfdsdd</Marca>
+    <Prezzo>2</Prezzo>
+    <Colore>dsffsd</Colore>
+    <Materiale>dsfdf</Materiale>
+    <Genere>Bambina</Genere>
+    <Cod>J46LS</Cod>
+    <Tipo>Jeans</Tipo>
+    <Taglia>46</Taglia>
+    <Lunghezza>Lunghi</Lunghezza>
+    <Vestibilita>Skinny</Vestibilita>
+  </clsPantaloni>
+  <clsPantaloni>
+    <Marca>fsds</Marca>
+    <Prezzo>4</Prezzo>
+    <Colore>fdsd</Colore>
+    <Materiale>fsdfds</Materiale>
+    <Genere>Bambina</Genere>
+    <Cod>F50CS</Cod>
+    <Tipo>Felpati</Tipo>
+    <Taglia>50</Taglia>
+    <Lunghezza>Corti</Lunghezza>
+    <Vestibilita>Slim</Vestibilita>
+  </clsPantaloni>
+  <clsPantaloni>
+    <Marca>fdsds</Marca>
+    <Prezzo>2</Prezzo>
+    <Colore>ssdf</Colore>
+    <Materiale>fsdsdf</Materiale>
+    <Genere>Uomo</Genere>
+    <Cod>F56CS</Cod>
+    <Tipo>Felpati</Tipo>
+    <Taglia>56</Taglia>
+    <Lunghezza>Corti</Lunghezza>
+    <Vestibilita>Slim</Vestibilita>
+  </clsPantaloni>
+</ArrayOfClsPantaloni>

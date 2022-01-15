@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClsScarpe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsScarpe>
+    <Marca>fdsdf</Marca>
+    <Prezzo>2</Prezzo>
+    <Colore>daw</Colore>
+    <Materiale>fdas</Materiale>
+    <Genere>Bambino</Genere>
+    <Cod>M21LC</Cod>
+    <Tipologia>Mocassini</Tipologia>
+    <Numero>21</Numero>
+    <Apertura>Lacci</Apertura>
+    <Suola>Cuoio</Suola>
+  </clsScarpe>
+  <clsScarpe>
+    <Marca>fdssdf</Marca>
+    <Prezzo>3</Prezzo>
+    <Colore>dfsfsd</Colore>
+    <Materiale>fsdsdf</Materiale>
+    <Genere>Donna</Genere>
+    <Cod>M21LG</Cod>
+    <Tipologia>Mocassini</Tipologia>
+    <Numero>21</Numero>
+    <Apertura>Lacci</Apertura>
+    <Suola>Gomma</Suola>
+  </clsScarpe>
+</ArrayOfClsScarpe>

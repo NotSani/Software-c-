@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClsGiacche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsGiacche>
+    <Marca>dsaasd</Marca>
+    <Prezzo>4</Prezzo>
+    <Colore>sdasdsda</Colore>
+    <Materiale>sdasd</Materiale>
+    <Genere>Bambina</Genere>
+    <Cod>GLP</Cod>
+    <Tipologia>Giacca</Tipologia>
+    <Taglia>L</Taglia>
+    <Stagione>Primaverile</Stagione>
+  </clsGiacche>
+  <clsGiacche>
+    <Marca>dassda</Marca>
+    <Prezzo>3</Prezzo>
+    <Colore>dsadsa</Colore>
+    <Materiale>sdaasd</Materiale>
+    <Genere>Donna</Genere>
+    <Cod>GXI</Cod>
+    <Tipologia>Giacca</Tipologia>
+    <Taglia>XS</Taglia>
+    <Stagione>Invernale</Stagione>
+  </clsGiacche>
+  <clsGiacche>
+    <Marca>dsaasd</Marca>
+    <Prezzo>3</Prezzo>
+    <Colore>dasdas</Colore>
+    <Materiale>dasasd</Materiale>
+    <Genere>Bambina</Genere>
+    <Cod>IXE</Cod>
+    <Tipologia>Impermeabile</Tipologia>
+    <Taglia>XS</Taglia>
+    <Stagione>Estivo</Stagione>
+  </clsGiacche>
+</ArrayOfClsGiacche>

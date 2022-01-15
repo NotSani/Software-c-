@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfClsBorse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <clsBorse>
+    <Marca>FDSSDS</Marca>
+    <Prezzo>3</Prezzo>
+    <Colore>DFSSDF</Colore>
+    <Materiale>FSDSDF</Materiale>
+    <Genere>Bambino</Genere>
+    <Cod>ZGE</Cod>
+    <Tipo>Zainetto</Tipo>
+    <Taglia>Grande</Taglia>
+    <Stagione>Estivo</Stagione>
+  </clsBorse>
+  <clsBorse>
+    <Marca>DASSA</Marca>
+    <Prezzo>1</Prezzo>
+    <Colore>ADAS</Colore>
+    <Materiale>SDAASD</Materiale>
+    <Genere>Donna</Genere>
+    <Cod>PMI</Cod>
+    <Tipo>Pochette</Tipo>
+    <Taglia>Media</Taglia>
+    <Stagione>Invernale</Stagione>
+  </clsBorse>
+</ArrayOfClsBorse>

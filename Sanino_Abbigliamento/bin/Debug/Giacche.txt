@@ -1,0 +1,3 @@
+dsaasd;4;sdasdsda;sdasd;Bambina;Giacca;L;Primaverile;
+dassda;3;dsadsa;sdaasd;Donna;Giacca;XS;Invernale;
+dsaasd;3;dasdas;dasasd;Bambina;Impermeabile;XS;Estivo;
